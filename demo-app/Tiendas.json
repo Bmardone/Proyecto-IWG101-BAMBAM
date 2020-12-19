@@ -1,0 +1,11 @@
+{
+    "Tiendas":[
+        {
+            "name":"pc-express",
+            "ranking":93,
+            "foto":"https://mantenedor.pc-express.cl/web/img/logo_pcexpress.png",
+            "url":"https://tienda.pc-express.cl/"
+        }
+    ]
+}
+//json provisorio de las tiendas, cambiar en cuanto tengamos una mejor forma de hacer un ranking
